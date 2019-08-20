@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+
+    <color name="colorTransparent">#1A000000</color>
+
+    <color name="transparent_background">#80000000</color>
+    <color name="new_transparent">#99317093</color>
+    <color name="primary_transparent">#4D1C4463</color>
+    <color name="primary_transparent1">#CC1C4463</color>
+    <color name="transparent">#5a000000</color>
+    <color name="grey_transparent">#a6f5f5f5</color>
+    <color name="pink_transparent">#b5f24a8c</color>
+
+    <color name="transparentWhite">#33FFFFFF</color>
+    <color name="transparent_clear">#00000000</color>
+
+
+
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="comp_color">#fff8e6</color>
+
+    <color name="colorAccent">#fff8e6</color>
+
+    <color name="black_color">#FF000000</color>
+
+    <color name="login_text_color">#efb439</color>
+
+    <color name="selected_color">#e6a722</color>
+
+    <color name="navbar_color">#fd4513</color>
+
+    <color name="seperator_color">#333333</color>
+
+    <color name="cal_text_color">#4a4a4a</color>
+
+    <color name="line_color">#333333</color>
+
+    <color name="white_color">#ffffff</color>
+
+    <color name="black_text_color">#2f2f2f</color>
+
+    <color name="subItem_color">#0000</color>
+
+    <color name="req_history_color">#191919</color>
+
+    <color name="req_history_sel_color">#4C483F</color>
+
+    <color name="grey_color">#9e9e9e</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+
+    <color name="green_color">#64dd17</color>
+
+    <color name="dark_grey_color">#757575</color>
+
+    <color name="light_grey_color">#66EEEEEE</color>
+
+    <color name="secondary_black_color">#333333</color>
+</resources>
